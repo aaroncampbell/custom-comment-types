@@ -11,7 +11,7 @@ Official plugin for the Custom Comment Types featured project
 
 Official plugin for the <a href="https://core.trac.wordpress.org/ticket/35214">Custom Comment Types featured project</a>
 
-Collaborate on the plugin: <a href="https://github.com/aaroncampbell/custom-comment-types">Presenter on GitHub</a>
+Collaborate on the plugin: <a href="https://github.com/aaroncampbell/custom-comment-types">Custom Comment Types on GitHub</a>
 
 ## Installation
 
